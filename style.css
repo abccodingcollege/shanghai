@@ -1,0 +1,40 @@
+/* Write some CSS below */
+
+body {
+	margin: 0px
+}
+
+.banner{
+	background-image: url(images/background.jpg);
+	background-position: center;
+	background-size: cover;
+	color: white;
+	text-align: center;
+	padding: 100px 0px 300px 0px;
+}
+
+
+.banner p{
+	margin: 30px 0px 200px 0px;
+	font-size: 25px;
+}
+
+
+.btn-blue {
+	background-color: #0F4FBE;
+	color: white;
+	font-weight: bolder;
+	text-decoration: none;
+	padding: 10px 60px;
+	border-radius: 2px;
+}
+
+
+
+.btn-blue:hover {
+	background-color: #0D1EC6;
+	color: yellow;
+	font-weight: bolder;
+	text-decoration: none;
+	padding: 12px 65px;
+}
